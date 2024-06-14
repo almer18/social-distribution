@@ -5,6 +5,8 @@ This project was created as part of CMPUT 404, a web development and architectur
 
 [Promotional Video](https://www.youtube.com/watch?v=B8rOnldU0Zw)
 
+Note: We used Git to collaborate on the codebase, but the commit history is not available since we used a private repository.
+
 Key Features
 ============
 
