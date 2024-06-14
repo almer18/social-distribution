@@ -1,31 +1,33 @@
-CMPUT404-project-socialdistribution
+Social Distribution
 ===================================
 
-CMPUT404-project-socialdistribution
+This project was created as part of CMPUT 404, a web development and architecture course at the University of Alberta. See [the web page](https://uofa-cmput404.github.io/general/project.html) for a description of the project.
 
-See [the web page](https://uofa-cmput404.github.io/general/project.html) for a description of the project.
+[Promotional Video](https://www.youtube.com/watch?v=B8rOnldU0Zw)
 
-Make a distributed social network!
-
-Contributing
+Key Features
 ============
 
-Send a pull request and be sure to update this file with your name.
+- Create, edit, delete, and share posts
+> - Posts can be plain text or Markdown
+> - Posts can contain images
+- Like and comment on posts
+> - Receive notifications when other users like and comment on your posts
+- Follow other users to be notified when they create a new post
+- Accept/reject follow requests
+- Visit a user's profile page to see their posts and follow/unfollow them
+- Connect with users on other social media apps that use the [ActivityPub](https://www.w3.org/TR/activitypub/) protocol
 
-| Name|CCID|GitHub UserName|
-| -------- | ------- | --------|
-|Vedd Kuknur|kuknur| Veddkuknur|
-|Jay Kim | jaekuang | Flying-Kimbo|
-| Alexander Nguyen | arnguyen | alexrnguyen |
-|Almer Muneer|muneer1| almer18|
-|Sriram Karthik Akella|sriramka|skarthik7|
-
-Groups Connected With
+Team Members
 ============
-Below is a list of groups we connected with and a link to their instance.
-- enjoyers (https://enjoyers404-cfbb8f9455f1.herokuapp.com/)
-- nexapulse (https://nexapulse1-7fbca99d2d7b.herokuapp.com/)
-- syntax (https://for-andy-8702738a0985.herokuapp.com/)
+
+| Name | GitHub Username |
+| -------- | -------- |
+| Alexander Nguyen | alexrnguyen |
+| Almer Muneer | almer18 |
+| Jay Kim | Flying-Kimbo |
+| Sriram Karthik Akella | skarthik7 |
+| Vedd Kuknur | Veddkuknur |
 
 Contributors / Licensing
 ========================
